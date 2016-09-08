@@ -1,0 +1,1 @@
+If you remove/rename this file, ProGammaX will store information in Documents folder.
