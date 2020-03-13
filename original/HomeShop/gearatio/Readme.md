@@ -21,3 +21,4 @@ You enter the available gears in the data file and then specify as input:
 and it does its job.  The more pairs you choose to examine, the longer it
 takes (a bailout option is supplied if you become impatient).  Start by
 examining one pair.  If you don't get your desired ratio within the specified
+accuracy, increment the number of pairs to be examined in steps of one.
