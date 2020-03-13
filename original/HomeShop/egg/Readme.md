@@ -1,2 +1,2 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# EGG
+01/22/03	Make breakfast on your lathe? Well, sort of. In Nevil Shute's book, "Trustee from the Toolroom", he describes the making of (metal) eggs on the lathe. I wanted to explore the difficulties of doing that so I wrote this demonstration program, based on my PROFILE, to prove that it could be done. Since I doubt that very many people want to do this, the program is just a demonstrator, not a finished tool. Should anyone want to get into the metallic poultry field, contact me and I'll make it into a user modifiable tool.

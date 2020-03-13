@@ -1,0 +1,3 @@
+﻿# DATA
+04/04/06	Unlike most of the entries in this table, this is not a program but rather a collection of data files I've compiled over the years. I keep a copy of CHART.TXT lying on my workbench for constant reference. (I printed it with a Simtel utility that prints up to four pages of text on a single side of an 8.5 x 11" sheet!) How many threads per inch on a #6 woodscrew ? - you'll want to know if you make lathe chucks for your woodturning friends. I won't vouch for the accuracy of any of this data since I didn't research the files, but I doubt any of it is very far off the mark. BTW, I welcome any additions you can make to this selection - help other amateurs with data that's hard to find.
+
