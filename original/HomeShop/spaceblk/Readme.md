@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# SPACEBLK
+02/08/14	A tool for selecting blocks from a set to make a spacer of given size. An ASCII data file allows easy tailoring to whatever block sizes you have available. Data file for 81 block gage block set included.
+

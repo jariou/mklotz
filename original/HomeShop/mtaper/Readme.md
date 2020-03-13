@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# MTAPER
+05/23/03	Redgie Joy requested a program to implement the calculations for accurately measuring the included angle of a conical part using a precision V-block and a sine bar.
+

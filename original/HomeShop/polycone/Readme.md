@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# POLYCONE
+07/08/03	A polycone (my terminology) is a 3D figure with regular polygon base and facet-like triangular faces that meet at a central point to form a conical shape with flat sides. Tetrahedrons and pyramids are examples. This program calculates most of the dimensions and angles associated with such a shape.
+

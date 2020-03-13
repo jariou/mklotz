@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# ROTARY
+04/16/99	Doing dividing? A hole-plate-vernier dividing head is nice, but with a (very) slight loss in accuracy, a rotary table (avoid backlash - go unidirectional) can handle ANY dividing problem. Just hope the vernier isn't calibrated in deg/min/sec (thankfully, mine isn't). If it is (or is properly divided into decimal fractions of a degree), this utility will take the headache out of calculating the settings for any desired number of divisions. (Data file to print and carry to shop.) People on the web actually sell software to do this calculation for $15 - an absurdity when one considers how trivial it is. I know they want to think they're being paid for the programming effort, but is ten minutes of programming worth $15 from every user? Clearly, I think not.
+

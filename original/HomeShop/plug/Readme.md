@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# PLUG
+12/30/04	Got a hole too big for your largest plug gage? Les Saunders solves this problem by measuring the hole with three smaller plug gages. I wrote a little program to help him select which three gages to use.
+

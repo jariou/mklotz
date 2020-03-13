@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# OGIVE
+11/13/01	A typical rocket nose cone shape is described as an 'ogive'. This program, an outgrowth of PROFILE, will allow you to incrementally turn such shapes on a lathe.
+

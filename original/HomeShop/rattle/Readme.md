@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# RATTLE
+11/04/99	Need to measure a bore bigger than your calipers? Guy Lautard documents an old-timers' technique that works very well. I wrote a program to examine its operation and calculate the actual bore diameter. Also, if you have trouble measuring accurately with internal calipers, you should become familiar with this procedure.
+

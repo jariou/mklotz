@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# WEIGHT
+Calculate the weight of regularly (and a few oddball) shaped objects for a variety of materials. An ASCII data file allows you to tailor the available densities to your taste.
+

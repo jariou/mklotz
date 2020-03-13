@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# OSBORNE
+11/04/99	Guy Lautard documents a quick and easy iterative method to accurately center round stock in the milling machine - the so-called "Osborne Maneuver". I wrote a short program to examine how quickly this procedure converges. This is a very useful trick - read the .TXT file for a description.
+

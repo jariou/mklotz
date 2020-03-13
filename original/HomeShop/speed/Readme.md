@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# SPEED
+04/22/05	Calculate the recommended machine tool speed (rpm) given material and size of workpiece/tool. An ASCII data file allows you to adjust values to your own taste and add materials I haven't covered. See also DIAM.
+

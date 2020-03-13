@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# MRADIUS
+03/16/02	An accurate technique for measuring the radius of curvature of a part. A .jpg file illustrates the setup and the program performs the requisite mathematics.
+

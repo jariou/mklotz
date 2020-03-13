@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# ROUNDER
+02/23/05	This is a tool to assist in rounding over workpieces in the milling machine analogous to the method of BALLCUT for the lathe.
+

@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# PROTRAC
+02/12/01	A sinebar is the preferred way to accurately set or measure an angle. On the other hand, a protractor is a very handy tool in a number of applications. Wouldn't it be nice if we could combine the accuracy of the sinebar approach with the convenience of the protractor? This discusses an attempt to do just that.
+

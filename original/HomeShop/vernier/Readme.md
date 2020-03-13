@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# VERNIER
+Two plate angular verniers will make your dividing problems easier and save you a lot of hole drilling. This program does all the mathematical design work for you and gives you a table to print for using the device once built.
+

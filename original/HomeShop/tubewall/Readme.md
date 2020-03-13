@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# TUBEWALL
+Don't have a ball anvil mike for measuring tube wall thickness? An ordinary outside mike and this program will get the job done for you.
+

@@ -1,2 +1,2 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# WIRE
+Wiring that 12 amp motor and can't decide what wire size to use? This tool will show you the recommended AWG wire gage as well as some other useful information.
