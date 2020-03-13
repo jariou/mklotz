@@ -1,2 +1,4 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# GEARFIND
+12/01/04	Given a desired gear ratio and associated tolerance, this program will search for a gear train that produces that ratio. Similar to GEARATIO but doesn't presume a pre-existing set of available gears.
+
+

@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# HELIXCF
+09/22/14	Chuck Fellows developed a really clever way to make helical gears. I've incorporated his calculations into this program as an aid to model engineers who may want to try his method.
+

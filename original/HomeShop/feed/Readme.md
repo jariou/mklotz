@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# FEED
+02/26/01	Yet another feed rate calculator. You enter any three of: speed, number of cutting edges, chip load per tooth and feed rate and the program calculates the unknown quantity.
+

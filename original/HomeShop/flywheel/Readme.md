@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# FLYWHEEL
+05/26/04	Tapered spoke flywheels make a model engine look elegant. Here's a tool to help in making them. Includes a .jpg sketch to make things more understandable.
+

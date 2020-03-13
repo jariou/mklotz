@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# FTAPER
+02/24/11	Two spheres can be used to measure a female taper. This program uses the measurement data to calculate the taper angle. See also TAPER.
+

@@ -1,2 +1,2 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# LOFT
+01/26/05	How much thread engagement is required to ensure that a screw will break before the threads strip out?

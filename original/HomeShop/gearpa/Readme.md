@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# GEARPA
+01/31/06	An experimental program to allow HSMs lacking sophisticated gear measurement tools to distinguish between 14.5 and 20 deg pressure angle gears. Feedback on the (non)utility of this program is requested.
+

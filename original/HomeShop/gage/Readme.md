@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# GAGE
+02/23/05	Confused by gage numbers? What's worse, the systems for wire and sheet metal are different. This utility will find gage number given thickness or vice versa. With the usual ASCII data file so you can tailor it.
+

@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# HINTS
+03/12/00	Not a program but a completely unstructured collection of hints and mini-projects that some may find useful. I welcome additions to this file, and credit will be given for anything submitted. Included are some of my thoughts about operating in a tiny, crowded shop.
+

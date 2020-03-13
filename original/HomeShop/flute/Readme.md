@@ -1,2 +1,2 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# FLUTE
+04/15/09	Tapered flutes can be made by milling a channel on a tilted workpiece with a ball mill. This program calculates the depths of cut and required inclination angle.

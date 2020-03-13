@@ -1,2 +1,3 @@
-﻿# CMITER
-11/03/04	Something for the woodworkers. Compute the blade tilt and miter gauge angles for cutting compound mitered pieces to assemble into a 'polygonal conoid' shape. See also POLYCONE, SINE and SINEBAR.
+﻿# GEARATIO
+08/14/03	If you have a set of gears (e.g., change gears from a lathe), you may want to use them to establish a ratio for some other application. This program automates the process of deciding which gears to use to obtain a desired ratio. See also GEARFIND.
+
